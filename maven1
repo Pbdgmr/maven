@@ -1,0 +1,1 @@
+mvn archetype:generate -DgroupId=com.dineshonjava -DartifactId=JavaHelloWorld -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
